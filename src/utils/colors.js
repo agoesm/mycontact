@@ -1,0 +1,16 @@
+export default {
+  primary: '#395afd',
+  secondary: '#bdabde',
+  greenDark: '#4D8075',
+  greenMedium: '#65BAA9',
+  greenLight: '#C5FCEF',
+  primaryDisabled: '#6facfc',
+  darkGrey: '#848EAA',
+  mediumGrey: '#b1b1b1',
+  lightGrey: '#dedede',
+  textColor: '#202124',
+  textColorDisabled: '#898989',
+  greyBackground: '#f2f2f7',
+  red: '#DC241F',
+  white: '#fff',
+};
